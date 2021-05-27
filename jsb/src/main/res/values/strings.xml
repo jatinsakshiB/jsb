@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="baseApiUrl">url</string>
+    <string name="search_hint">hint</string>
+    <string name="app_name">ap_name</string>
+</resources>

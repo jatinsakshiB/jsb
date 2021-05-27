@@ -1,0 +1,3 @@
+rootProject.name = "JsbLibrary"
+include ':app'
+include ':jsb'
